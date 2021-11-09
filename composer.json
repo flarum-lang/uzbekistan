@@ -1,5 +1,5 @@
 {
-	"name": "flarum-lang/uzbekistan",
+	"name": "flarum-lang/uzbek",
 	"type": "flarum-extension",
 	"description": "Uzbekistan language pack for Flarum.",
 	"homepage": "https://github.com/flarum-lang/uzbekistan",
@@ -17,8 +17,8 @@
 		}
 	],
 	"support": {
-		"issues": "https://github.com/flarum-lang/uzbekistan/issues",
-		"source": "https://github.com/flarum-lang/uzbekistan"
+		"issues": "https://github.com/flarum-lang/uzbek/issues",
+		"source": "https://github.com/flarum-lang/uzbek"
 	},
 	"require": {
 		"flarum/core": "^1.0"
@@ -36,7 +36,7 @@
 		},
 		"flarum-locale": {
 			"code": "uzb",
-			"title": "Uzbekistan"
+			"title": "Uzbek"
 		},
 		"extiverse": {
 			"discuss": ""
