@@ -7,3 +7,4 @@ core:
     appearance:
       colored_header_label: 'Rangli Sarlavha'
       colors_heading: Ranglar
+      colors_text: 'Forumingizni stilizatsiyalash uchun ikkita rang tanlang. Birinchisi ajratish rangi sifatida ishlatiladi, ikkinchisi esa fon elementlarini stilizatsiya qilish uchun ishlatiladi.'
