@@ -8,3 +8,88 @@ core:
       colored_header_label: 'Rangli Sarlavha'
       colors_heading: Ranglar
       colors_text: 'Forumingizni stilizatsiyalash uchun ikkita rang tanlang. Birinchisi ajratish rangi sifatida ishlatiladi, ikkinchisi esa fon elementlarini stilizatsiya qilish uchun ishlatiladi.'
+      custom_footer_heading: 'Custom footer'
+      custom_header_heading: 'Custom Sarlavha'
+      custom_styles_heading: 'Custom Stillar'
+      custom_styles_text: 'Flarum standart uslublari ustiga qo''llanilishi uchun o''zingizning Less/CSS kodingizni qo''shish orqali forumingiz ko''rinishini moslashtiring.'
+      dark_mode_label: 'Qorong''i rejim'
+      description: 'Forumingiz ranglarini, logotiplarini va boshqa o''zgaruvchilarni moslashtiring.'
+      edit_css_button: 'Custom CSS ni tahrirlash'
+      enter_hex_message: 'Iltimos, oʻn oltilik rang kodini kiriting.'
+      favicon_heading: Favicon
+      favicon_text: 'Forumning yorliq belgisi sifatida ko''rsatiladigan rasmni yuklang.'
+      logo_heading: Logotip
+      logo_text: 'Forum sarlavhasi o''rniga ko''rsatiladigan rasmni yuklang.'
+      title: 'Ko''rinish'
+    basics:
+      default_language_heading: 'Standart til'
+      description: 'Forum nomi, til va boshqa asosiy sozlamalarni o''rnating.'
+      display_name_heading: 'Foydalanuvchi displey nomi'
+      display_name_text: 'Foydalanuvchilarning ekran nomlari uchun ishlatilishi kerak bo''lgan drayverni tanlang. Odatda foydalanuvchi nomi ko''rsatiladi.'
+      forum_description_heading: 'Forum tavsifi'
+      forum_description_text: 'Jamiyatingizni tavsiflovchi qisqa yoki ikkita jumla kiriting. Bu meta tegda paydo bo''ladi va qidiruv tizimlarida ko''rsatiladi.'
+      forum_title_heading: 'Forum sarlavhasi'
+      home_page_heading: 'Bosh sahifa'
+      home_page_text: 'Sizning forumingizga tashrif buyurgan foydalanuvchilar birinchi marta ko''radigan sahifani tanlang.'
+      show_language_selector_label: 'Til selektorini ko''rsatish'
+      slug_driver_text: 'Ushbu modelni siljitish uchun ishlatiladigan drayverni tanlang.'
+      title: Asoslari
+      welcome_banner_heading: 'Xush kelibsiz banneri'
+      welcome_banner_text: 'Barcha Muhokamalar sahifasidagi bannerda ko''rsatiladigan matnni sozlang. Buni forumingizga mehmonlarni kutib olish uchun foydalaning.'
+    dashboard:
+      clear_cache_button: 'Keshni tozalash'
+      description: 'Sizning forumingiz bir qarashda.'
+      title: 'Boshqaruv paneli'
+      tools_button: Asboblar
+    edit_css:
+      customize_text: 'Flarumning <a>standart uslublari</a> ustiga qo''llanilishi uchun o''zingizning Less/CSS kodingizni qo''shish orqali forumingiz ko''rinishini moslashtiring.'
+      title: 'Custom CSS ni tahrirlash'
+    edit_group:
+      delete_button: 'Guruhni oʻchirish'
+      delete_confirmation: 'Bu guruhni oʻchirib tashlamoqchimisiz? Guruh a''zolari o''chirilmaydi.'
+      hide_label: 'Forumda yashirish'
+      name_label: Nomi
+      plural_placeholder: 'Ko‘plik (masalan, Modlar)'
+      singular_placeholder: 'Birlik (masalan, Mod)'
+      title: 'Guruh yaratish'
+    email:
+      addresses_heading: Manzillar
+      description: 'Forumingiz elektron pochta xabarlarini yuborish uchun foydalanadigan drayver, sozlamalar va manzillarni sozlang.'
+      driver_heading: 'Drayverni tanlang'
+      driver_label: Drayver
+      from_label: 'Jo''natuvchi'
+      mail_encryption_label: Shifrlash
+      mail_host_label: Xost
+      mail_mailgun_domain_label: Domen
+      mail_mailgun_region_label: Hudud
+      mail_mailgun_secret_label: 'Maxfiy kalit'
+      mail_port_label: Port
+      mailgun_heading: 'Pochta quroli sozlamalari'
+      not_sending_message: 'Flarum hozirda elektron pochta xabarlarini yubormaydi. Buning sababi tanlangan drayver yoki uning konfiguratsiyasidagi xatolar bo''lishi mumkin.'
+      send_test_mail_button: 'Jo''natish'
+      send_test_mail_heading: 'Sinov xatini yuborish'
+      send_test_mail_success: 'Sinov xati muvaffaqiyatli yuborildi!'
+      send_test_mail_text: 'Bu sizning {email} manzilingizga yuqoridagi konfiguratsiyadan foydalangan holda xat yuboradi.'
+      smtp_heading: 'SMTP sozlamalar'
+    extension:
+      configure_scopes: 'Qamrovlarni sozlash'
+      confirm_purge: 'Tozalash kengaytma bilan bog''liq barcha ma''lumotlar bazasi yozuvlari va aktivlarini o''chirib tashlaydi. U kengaytmani olib tashlamaydi; Bu Composer orqali amalga oshirilishi kerak. Davom etishni xohlaysizmi?'
+      disabled: Oʻchirilgan
+      enable_to_see: 'Sozlamalarni ko''rish va o''zgartirish uchun kengaytmani yoqing.'
+      enabled: Yoqilgan
+      info_links:
+        discuss: 'Muhokama qiling'
+        documentation: Hujjatlar
+        donate: 'Xayriya qilish'
+        source: Manba
+        support: 'Qo''llab-quvvatlash'
+        website: Vebsayt
+      no_permissions: 'Bu kengaytmada ruxsat yo‘q.'
+      no_settings: 'Bu kengaytmada sozlamalar yo‘q.'
+      open_modal: 'Ochiq sozlamalar'
+      permissions_title: Ruxsatlar
+      purge_button: Tozalash
+      readme:
+        button_label: README
+        no_readme: 'Bu kengaytmada README fayli mavjud emas'
+        title: '{extName} hujjatlari'
