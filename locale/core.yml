@@ -186,7 +186,7 @@ core:
     settings:
       saved_message: 'O''zgartirishlar saqlandi.'
     upload_image:
-      upload_button: 'Rasm tanlang'
+      upload_button: 'Rasm tanlang...'
     users:
       description: 'Forumdagi foydalanuvchilar ro''yxati.'
       grid:
@@ -311,7 +311,7 @@ core:
     settings:
       account_heading: Akkaunt
       notify_by_web_heading: Veb
-      notify_discussion_renamed_label: 'Meni muhokamamni nomini kimdur o''zgartirdi.'
+      notify_discussion_renamed_label: 'Meni muhokamamni nomini kimdir o''zgartirdi'
     sign_up:
       log_in_text: 'Ro''yxatdan o''tganmisiz? <a>Kirish</a>'
       welcome_text: 'Salom, {username}!'
@@ -326,7 +326,7 @@ core:
       button: Boshqaruv
       delete_confirmation: 'Bu foydalanuvchini o''chirimoqchimisiz? Uning postlari o''chirlmaydi.'
       delete_error_message: '<i>{username}({email})</i> foydalanuvchi o''chirilmadi'
-      delete_success_message: '<i>{username} ({email})</i>  o''chirildi'
+      delete_success_message: '<i>{username} ({email})</i> o''chirildi'
       toggle_dropdown_accessible_label: 'Foydalanuvchi boshqaruv tushadigan menyusi'
     user_email_confirmation:
       resend_button: 'Tasdiqlash emailnini qayta jo''natish'
@@ -382,7 +382,7 @@ core:
     username: Username
     users: Foydalanuvchilar
     view: 'Ko''rish'
-    write_a_reply: 'Javob yozish'
+    write_a_reply: 'Javob yozish...'
     you: Siz
   views:
     admin:
