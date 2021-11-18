@@ -61,10 +61,16 @@ core:
       delete_confirmation: 'Bu guruhni oʻchirib tashlamoqchimisiz? Guruh a''zolari o''chirilmaydi.'
       hide_label: 'Forumda yashirish'
       icon_label: '=> core.ref.icon'
+      icon_text: '=> core.ref.icon_text'
       name_label: Nomi
       plural_placeholder: 'Ko‘plik (masalan, Modlar)'
       singular_placeholder: 'Birlik (masalan, Mod)'
+      submit_button: '=> core.ref.save_changes'
       title: 'Guruh yaratish'
+    edit_header:
+      customize_text: '=> core.ref.custom_header_text'
+      submit_button: '=> core.ref.save_changes'
+      title: '=> core.ref.custom_header_title'
     email:
       addresses_heading: Manzillar
       description: 'Forumingiz elektron pochta xabarlarini yuborish uchun foydalanadigan drayver, sozlamalar va manzillarni sozlang.'
@@ -76,7 +82,9 @@ core:
       mail_mailgun_domain_label: Domen
       mail_mailgun_region_label: Hudud
       mail_mailgun_secret_label: 'Maxfiy kalit'
+      mail_password_label: '=> core.ref.password'
       mail_port_label: Port
+      mail_username_label: '=> core.ref.username'
       mailgun_heading: 'Pochta quroli sozlamalari'
       not_sending_message: 'Flarum hozirda elektron pochta xabarlarini yubormaydi. Buning sababi tanlangan drayver yoki uning konfiguratsiyasidagi xatolar bo''lishi mumkin.'
       send_test_mail_button: 'Jo''natish'
@@ -84,6 +92,7 @@ core:
       send_test_mail_success: 'Sinov xati muvaffaqiyatli yuborildi!'
       send_test_mail_text: 'Bu sizning {email} manzilingizga yuqoridagi konfiguratsiyadan foydalangan holda xat yuboradi.'
       smtp_heading: 'SMTP sozlamalar'
+      title: '=> core.ref.email'
     extension:
       configure_scopes: 'Qamrovlarni sozlash'
       confirm_purge: 'Tozalash kengaytma bilan bog''liq barcha ma''lumotlar bazasi yozuvlari va aktivlarini o''chirib tashlaydi. U kengaytmani olib tashlamaydi; Bu Composer orqali amalga oshirilishi kerak. Davom etishni xohlaysizmi?'
@@ -110,9 +119,14 @@ core:
       uninstall_button: 'O''chirish'
     header:
       get_help: Yordam
+      log_out_button: '=> core.ref.log_out'
     loading:
       title: 'Iltimos kuting...'
     nav:
+      appearance_button: '=> core.admin.appearance.title'
+      appearance_title: '=> core.admin.appearance.description'
+      basics_button: '=> core.admin.basics.title'
+      basics_title: '=> core.admin.basics.description'
       categories:
         authentication: Autentifikatsiya
         core: 'Forum sozlamalari'
@@ -123,7 +137,15 @@ core:
         moderation: Moderatsiya
         other: 'Boshqa kengaytmalar'
         theme: Mavzular
+      dashboard_button: '=> core.admin.dashboard.title'
+      dashboard_title: '=> core.admin.dashboard.description'
+      email_button: '=> core.ref.email'
+      email_title: '=> core.admin.email.description'
+      permissions_button: '=> core.admin.permissions.title'
+      permissions_title: '=> core.admin.permissions.description'
       search_placeholder: 'Kengaytmalarni qidirish'
+      userlist_button: '=> core.admin.users.title'
+      userlist_title: '=> core.admin.users.description'
     permissions:
       allow_post_editing_label: 'Postni o''zgartirishga ruxsat berish'
       allow_renaming_label: 'Nomini o''zgartirishga ruxsat berish'
@@ -155,6 +177,7 @@ core:
       view_post_ips_label: 'Post IP adresini ko''rish'
     permissions_controls:
       allow_indefinitely_button: Cheklanmagan
+      allow_some_minutes_button: '{count, plural, one {# minut} other {# minut}}'
       allow_ten_minutes_button: '10 minut'
       allow_until_reply_button: 'Javob kelishini kutish'
       everyone_button: Hamma
@@ -188,6 +211,14 @@ core:
         next_button: 'Keyingi sahifa'
         page_counter: '{current} bet {total} dan'
       total_users: 'Jami foydalanuvchilar: {count}'
+  api:
+    invalid_username_message: 'Foydalanuvchi nomida faqat harflar, raqamlar va tire ishlatilishi mumkin.'
+  email:
+    activate_account:
+      body: "Salom {username}!\n\nKimdur (umid qilamizki bu siz!) {forum} ga mana shu email bilan ro'yxatdan o'tdi.\n\nAgar bu siz bo'lsangiz, quyidagi havolani bosib akkauntingizni faollashtiring:\n{url}\n\nAgar siz ro'yxatdan o'tmagan bo'lsangiz, shunchaki e'tibor bermang.\n"
+      subject: 'Yangi akkauntni faollashtiring'
+    confirm_email:
+      subject: 'Yangi emailingizni tasdiqlang'
   forum:
     change_email:
       incorrect_password_message: 'Noto''g''ri parol.'
@@ -303,8 +334,14 @@ core:
     welcome_hero:
       hide: 'Salom xabarini yashirish'
   group:
+    admin: Admin
+    admins: Adminlar
+    guest: Mehmon
+    guests: Mehmonlar
     member: Qatnashuvchi
     members: qatnashuvchilar
+    mod: Mod
+    mods: Moderatorlar
   lib:
     badge:
       hidden_tooltip: Yashirin
@@ -319,3 +356,62 @@ core:
     error:
       dependent_extensions_message: '{extensions} larni o''chirmaguncha {extension} ni o''chirib bo''lmaydi'
       generic_message: 'Voy! Nimadir noto''g''ri bajarildi. Sahifani qayta yuklang va qaytadan urining.'
+    series:
+      three_text: '{first}, {second}, va {third}'
+      two_text: '{first} va {second}'
+    username:
+      deleted_text: '[o''chirildi]'
+  ref:
+    log_out: Chiqish
+    mark_all_as_read: 'Barchasini o''qildi deb belgilash'
+    next_page: 'Keyingi sahifa'
+    notifications: Xabarlar
+    okay: OK
+    password: Parol
+    posts: Postlar
+    previous_page: 'Oldingi sahifa'
+    remove: 'O''chirish'
+    rename: 'Nomini o''zgartirish'
+    reply: 'Javob yozish'
+    reset_your_password: 'Parolni o''chirish'
+    restore: 'Qayta tiklash'
+    save_changes: Saqlash
+    settings: Sozlamalar
+    sign_up: 'Ro''yxatdan o''tish'
+    start_a_discussion: 'Muhokama boshlash'
+    username: Username
+    users: Foydalanuvchilar
+    view: 'Ko''rish'
+    write_a_reply: 'Javob yozish'
+    you: Siz
+  views:
+    admin:
+      extensions:
+        disable: 'O''chirish'
+        empty: 'O''rnatilgan kengaytmalar yo''q'
+        enable: 'Ruxsat berish'
+        name: 'Kengaytma nomi'
+        package_name: 'Paket nomi'
+        version: Versiya
+      info:
+        caption: 'Dastur haqida'
+      title: Administrator
+    confirm_email:
+      text: 'Emailni tasdiqlash uchun quyidagi tugmani bosing.'
+    content:
+      javascript_disabled_message: 'Bu sayt JavaScripti mavjud brauzerda yaxshiroq ko''rinadi.'
+      load_error_message: 'Saytni to''liq versiyasini yuklashda xatolik yuz berdi. Sahifani yangilang.'
+    error:
+      csrf_token_mismatch: 'Anchadan beri faol emassiz.'
+      csrf_token_mismatch_return_link: 'Qaytadan urinib ko''ring'
+      invalid_confirmation_token: 'Tasdiqlash havolasining muddati o''tgan.'
+      not_authenticated: 'Bu sahifaga o''tishga sizda ruxsat yo''q. Saytga kirib qaytadan urinib ko''ring.'
+      not_found: 'Siz so''ragan sahifa topilmadi.'
+      not_found_return_link: '{forum} ga qaytish'
+      permission_denied: 'Sizda bu sahifaga ruxsat yo''q.'
+      unknown: 'Sahifani yuklashda xatolik yuz berdi.'
+    log_out:
+      log_out_confirmation: '{forum} dan chiqishga ishonchingiz komilmi?'
+    reset_password:
+      confirm_password_label: 'Yangi parolni tasdiqlang'
+      new_password_label: 'Yangi parol'
