@@ -4,6 +4,10 @@
 
 clarkwinkelmann-catch-the-fish:
   forum:
+    basket:
+      drag-help: 'Baliqni muhokama, post yoki foydalanuvchi profiliga sudrab olib tashlang'
+      time: 'Joylashuv vaqti: {time}'
+      title: 'Baliq savati'
     caught-fish-modal:
       congratulation: 'Tabriklaymiz, siz baliq tutdingiz! Siz {catch_count} ta baliq tutdingiz.'
       name: 'Baliq nomi'
@@ -22,8 +26,11 @@ clarkwinkelmann-catch-the-fish:
       title: 'Baliq "{nomi}"ini tahrirlash'
     edit-fish:
       create: 'Baliq yaratish'
+      delete: 'Baliqni o''chirish'
+      delete-confirmation: 'Baliq "{nomi}"ni o''chirilsinmi?'
       name: Nomi
       name-help: 'Baliqning hozirgi nomi. Agar o''yinchilar baliq nomini o''zgartirishga ruxsati bo''lsa, ularni tahrirlashlari mumkin'
+      save: 'Baliqni saqlash'
     edit-round-modal:
       title: '“{name}” raundini tahrirlash'
     edit-round:
@@ -37,12 +44,17 @@ clarkwinkelmann-catch-the-fish:
       starting-pack: 'Boshlang''ich to''plami'
       starting-pack-help: 'Sizni qisqa vaqt ichida boshlash uchun bir nechta baliqlarni o''z ichiga oladi'
       starts-at: 'Boshlanish vaqti'
+    fish-image:
+      alt: '“{name}” baliq tasviri'
+      missing: 'Baliq tasviri yetishmayapti'
     moderate:
       add: 'Qo''shish'
       delete: Oʻchirish
       edit: Tahrirlash
       fishes: Baliqlar
       rounds: Davralar
+    moving-fish:
+      login: 'Baliqni tutish uchun tizimga kiring'
     nav:
       rankings: 'Baliq reytingini ushlang'
       settings: 'Baliq sozlamalarini oling'
@@ -50,3 +62,30 @@ clarkwinkelmann-catch-the-fish:
       title: 'Yangi baliq'
     new-round-modal:
       title: 'Yangi raund'
+    round-alert:
+      message: '“{name}” raundda, imkon qadar koʻproq baliq tuting'
+      rankings: 'Reytinglarga qarang'
+    table-fish:
+      actions: Harakatlar
+      edit: 'O''zgartirish'
+      image: Rasm
+      loading: Yuklanmoqda...
+      name: Nomi
+      new: 'Yangi baliq'
+      no-user-name: 'Qayta nomlanmagan'
+      no-user-place: Tasodifiy
+      placement: 'Joriy joylashuv'
+      title: '{nomi} raund uchun baliqlar'
+      upload: 'Yangi rasm yuklang'
+      user-name: 'Oxirgi martta nomlangan'
+      user-place: 'Oxirgi martta joylashtirilgan'
+    table-round:
+      actions: Harakatlar
+      edit: Tahrirlash
+      end: gacha
+      fishes: Baliqlar
+      loading: Yuklanmoqda...
+      name: Nomi
+      new: 'Yangi raund'
+      start: dan
+      title: Raundlar
