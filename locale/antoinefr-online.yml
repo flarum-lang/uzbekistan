@@ -8,6 +8,6 @@ antoinefr-online:
       displaymax: 'Ko''rsatilgan a''zolar soni'
       titleoflist: 'Sarlavha ro''yxatning tepasida ko''rsatiladi'
   forum:
-    andmore: 'va yana {yana}'
+    andmore: 'va yana {yana}...'
     online_users: '{ko''proq, ko''plik, bitta {# foydalanuvchi onlayn} boshqa {# foydalanuvchi onlayn}}'
     title: 'Kim onlayn?'

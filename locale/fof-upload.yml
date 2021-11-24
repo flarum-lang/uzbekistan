@@ -6,11 +6,56 @@ fof-upload:
   admin:
     help_texts:
       client_extension: "Odatda Yuklash MIME turiga qarab xavfsiz fayl kengaytmasini tanlaydi.\nZIP yoki ikkilik ma'lumotlarga asoslangan ba'zi fayl turlari uchun bu kutilgan kengaytma o'rniga umumiy kengaytmalardan foydalanishga olib kelishi mumkin.\nBu yerda siz so'zma-so'z saqlanadigan fayl kengaytmalarining vergul bilan ajratilgan ro'yxatini kiritishingiz mumkin.\n"
+      composer_buttons: "Odatiy bo'lib media menejeri tugmasi ham, yuklash tugmasi ham ko'rinadi. Siz faqat bitta tugmani ko'rsatishni tanlashingiz mumkin.\n"
       disable-download-logging: "Forumingiz foydalanuvchilari tomonidan yuklab olingan har bir yuklama jurnalini o'chirib qo'ying. Uni yoqilgan holda saqlash sizga yaqin kelajakda yuklab olinganlar soni va boshqa koʻrsatkichlarni koʻrish imkonini beradi.\n"
       disable-hotlink-protection: "Hotlink himoyasi boshqa saytlardan yuklamalarni ochishning oldini oladi. Joriy usul csrf tokeni va post identifikatorini talab qiladi.\n"
       download_templates: "Yuklab olish shablonlari - yuklamalar forumingizda qanday ko'rsatiladi, masalan, oldindan ko'rishlar, tugmalar. Hozirda mavjud:\n"
       mime_types: "Iltimos, xaritangizni shu yerda sozlang. Har bir mim tipidagi muntazam ifoda ma'lum bir yuklash adapteri va yuklab olish shablonlari tomonidan boshqariladi.\n"
       resize: "Tasvirlar yuklanishidan oldin ularning oʻlchamini oʻzgartirishni xohlaysizmi yoki yoʻqligini tanlang. Maksimal kenglik va balandlikni piksellarda tanlashingiz mumkin. O'lchamni o'zgartirish jarayoni tasvirlarning nisbatlarini saqlab qoladi.\n"
+      s3_acl: "Yuklangan ob'ektga qo'llanilishi kerak bo'lgan ACL (standart: shaxsiy). Mumkin qiymatlar uchun qarang: https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html#canned-acl\n"
+      s3_compatible_storage: "Quyidagi sozlamalar faqat S3 mos xotirasidan foydalanilganda talab qilinadi. Agar siz AWS dan foydalansangiz, ularni bo'sh qoldirishingiz mumkin.\n"
+      watermark: "Yuklash paytida rasmlarga suv belgisi qo'shiladimi yoki yo'qligini tanlang. Quyidagi afzalliklaringiz asosida gif bo'lmagan rasmlarga suv bo'yoqlari qo'shiladi.\n"
+    labels:
+      aws-s3:
+        acl: 'Kirish nazorati roʻyxati (ACL)'
+        advanced_title: 'Kengaytirilgan S3 saqlash sozlamalari'
+        bucket: Chelak
+        endpoint: 'Yakuniy nuqta'
+        key: Kalit
+        region: Mintaqa
+        secret: Sir
+        title: 'AWS S3 saqlash sozlamalari'
+        use_path_style_endpoint: 'Yo''l uslubining so''nggi nuqtasidan foydalaning'
+      client_extension:
+        title: 'Foydalanuvchi tomonidan taqdim etilgan fayl kengaytmalari'
+      disable-download-logging:
+        title: 'Yuklab olish jurnalini o''chirib qo''ying'
+        toggle: Oʻchirish
+      disable-hotlink-protection:
+        title: 'Hotlink himoyasini o''chirib qo''ying'
+        toggle: Oʻchirish
+      imgur:
+        client_id: 'Imgur mijoz identifikatori'
+        title: 'Imgur tasvirni saqlash sozlamalari'
+      local:
+        cdn_url: 'Kontentni yetkazib berish URL manzili (prefiks fayllari)'
+        title: 'Mahalliy saqlash sozlamalari'
+      preferences:
+        max_file_size: 'Maksimal fayl hajmi (kilobaytlarda)'
+        mime_types: 'Mim turini sozlang, adapter xaritasini yuklang'
+        php_ini_values: 'Sizning <code>php.ini</code> qiymatlaringiz <code>post_max_size={post}</code> va <code>upload_max_filesize={upload}</code>. Bu yerda oʻrnatilgan qiymat ushbu chegaralardan past ekanligiga ishonch hosil qiling yoki ularni mos ravishda sozlang. Agar <code>Nginx</code> dan foydalansangiz, <code>client_max_body_size</code> siz tanlagan maksimal chegara uchun yetarli hajmda boʻlishini ham tekshiring.'
+        title: 'Umumiy imtiyozlar'
+      qiniu:
+        bucket: Chelak
+        key: Kalit
+        secret: Sir
+        title: 'Qiniu saqlash sozlamalari'
+      resize:
+        max_width: 'Tasvirning maksimal kengligi/balandligi'
+        title: 'Rasm hajmini oʻzgartirish'
+        toggle: 'Rasm hajmini oʻzgartirish'
+      watermark:
+        file: 'Suv belgisi rasmingizni yuklang'
     pane:
       description: 'Yuklash xizmatlari va afzalliklarini sozlang.'
       title: Yuklash
