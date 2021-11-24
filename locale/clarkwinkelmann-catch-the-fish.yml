@@ -3,6 +3,14 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 clarkwinkelmann-catch-the-fish:
+  admin:
+    settings:
+      discussion: Muhokamalar
+      discussion-age: 'Unga baliq qo''yish uchun qancha vaqt munozaralar bo''lishi mumkin (kunlar)'
+      discussion-tags: 'Oq roʻyxatga teg'
+      user: Foydalanuvchilar
+      user-age: 'Baliq qo''yilishi uchun foydalanuvchi qancha vaqtdan beri faol bo''lishi kerak (kunlar)'
+      user-probability: 'Foydalanuvchi profiliga joylashish ehtimoli (%)'
   forum:
     basket:
       drag-help: 'Baliqni muhokama, post yoki foydalanuvchi profiliga sudrab olib tashlang'
@@ -22,6 +30,9 @@ clarkwinkelmann-catch-the-fish:
       submit-place-later: 'Ha, men yashirinadigan joy tanlayman'
       submit-place-random: 'Baliq o''zini yashirsin'
       title: 'Siz baliq tutdingiz!'
+    drop-area:
+      message: 'Siz baliqni bu yerga qo''yishingiz mumkin'
+      missing-from-store: 'Ma''lumotlar omborida baliq topilmadi'
     edit-fish-modal:
       title: 'Baliq "{nomi}"ini tahrirlash'
     edit-fish:
@@ -62,6 +73,10 @@ clarkwinkelmann-catch-the-fish:
       title: 'Yangi baliq'
     new-round-modal:
       title: 'Yangi raund'
+    page-ranking:
+      nothing: 'Faol turlar yo''q'
+      permission: 'Sizda reytingni ko''rish uchun ruxsat yo''q'
+      title: Reytinglar
     round-alert:
       message: '“{name}” raundda, imkon qadar koʻproq baliq tuting'
       rankings: 'Reytinglarga qarang'
@@ -72,6 +87,7 @@ clarkwinkelmann-catch-the-fish:
       loading: Yuklanmoqda...
       name: Nomi
       new: 'Yangi baliq'
+      new-from-image: 'Rasmlarni ommaviy import qilish orqali yangi baliqlarni yarating'
       no-user-name: 'Qayta nomlanmagan'
       no-user-place: Tasodifiy
       placement: 'Joriy joylashuv'
@@ -79,6 +95,12 @@ clarkwinkelmann-catch-the-fish:
       upload: 'Yangi rasm yuklang'
       user-name: 'Oxirgi martta nomlangan'
       user-place: 'Oxirgi martta joylashtirilgan'
+    table-ranking:
+      count: 'Tutilgan baliqlar'
+      loading: Yuklanmoqda...
+      rank: Nomi
+      title: 'Tur reytingi {nomi}'
+      user: Foydalanuvchi
     table-round:
       actions: Harakatlar
       edit: Tahrirlash
