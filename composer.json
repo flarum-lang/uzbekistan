@@ -2,11 +2,11 @@
 	"name": "flarum-lang/uzbek",
 	"type": "flarum-extension",
 	"description": "Uzbekistan language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/uzbekistan",
+	"homepage": "https://github.com/flarum-lang/uzbek",
 	"keywords": [
 		"locale",
 		"flarum",
-		"xx-locale"
+		"uzbek-locale"
 	],
 	"license": "MIT",
 	"authors": [
