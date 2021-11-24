@@ -11,9 +11,9 @@
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Your Name",
-			"email": "your@email.net",
-			"homepage": "https://yourhomepage.com/"
+			"name": "RoboticsWare",
+			"email": "neopia.uz@gmail.com",
+			"homepage": "https://roboticsware.uz/"
 		}
 	],
 	"support": {
@@ -36,7 +36,7 @@
 		},
 		"flarum-locale": {
 			"code": "uzb",
-			"title": "Uzbek"
+			"title": "O'zbek"
 		},
 		"extiverse": {
 			"discuss": ""
