@@ -4,7 +4,7 @@
 
 acpl-lscache:
   admin:
-    public_cache_ttl_help: 'Umumiy sahifalar qancha vaqt, soniyalarda keshlanishini belgilang. Standart qiymat 300 soniya'
+    public_cache_ttl_help: 'Umumiy sahifalar qancha vaqt, soniyalarda keshlanishini belgilang. Standart qiymat 300 soniya.'
     public_cache_ttl_label: 'Standart umumiy kesh TTL'
     purge_all: 'Barcha LSCache-ni tozalang'
     purge_all_success: 'Barcha LSCache yozuvlarini tozalash uchun LiteSpeed veb-serveriga xabar berilgan'
