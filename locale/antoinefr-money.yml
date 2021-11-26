@@ -18,6 +18,7 @@ antoinefr-money:
   forum:
     modal:
       current: 'Hozirgi:'
+      submit_button: '=> core.ref.save_changes'
       title: '{username} ning puli'
     user_controls:
       money_button: 'Pulni tahrirlash'

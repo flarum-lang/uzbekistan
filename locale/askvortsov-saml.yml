@@ -31,5 +31,6 @@ askvortsov-saml:
     log_in:
       enable_popups: 'Kirish / Ro''yxatdan o''tish uchun qalqib chiquvchi oynalarni yoqing'
       open_popup: 'Kirish uchun shu yerni bosing'
+      with_saml_button: 'SAML2 SSO'
     sign_up:
       post_saml_title: 'Oxirgi bir qadam...'

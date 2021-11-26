@@ -10,8 +10,10 @@ askvortsov-moderator-warnings:
       view_warnings: 'Moderator ogohlantirishlarini ko''ring'
   emails:
     post_warned:
+      body: "Salom {warnee_display_name}!\n\n{warner_display_name} sizni {discussion_title} da {strikes, plural, one {# strike} other {# strikes}} bilan ogohlantirdi}\n\nQuyidagi sabab bilan:\n\n---\n\n{public_comment}\n"
       subject: '{warner_display_name} sizni {discussion_title} doirasida {ogohlantirishlar, koʻplik, bitta {# ogohlantirish} boshqa {# ta ogohlantirish}} bilan ogohlantirdi'
     user_warned:
+      body: "Salom {warnee_display_name}!\n\n{warner_display_name} sizni {strikes, plural, one {# strike} other {# strikes}} bilan ogohlantirdi\n\nQuyidagi sabab ko'rsatilgan:\n\n---\n\n{public_comment}\n"
       subject: '{warner_display_name} sizni {ogohlantirishlar, koʻplik, bitta {# ogohlantirish} boshqa {# ta ogohlantirish}} bilan ogohlantirdi'
   forum:
     notifications:
@@ -40,6 +42,8 @@ askvortsov-moderator-warnings:
       warnings_no_strikes: 'Moderator ogohlantirishlari: Hech qanday ogohlantirish olinmadi'
     warning_list_item:
       linked_post: 'Bog''langan post'
+      list_item_heading: '{strikes, plural, one {<strong>#</strong> strike, {time}} other {<strong>#</strong> strikes, {time}}}'
+      list_item_heading_hidden: '{strikes, plural, one {<strong>#</strong> strike, {time} <strong>(o''chirilgan)</strong>} other {<strong>#</strong> strikes, {time} <strong>(o''chirilgan)</strong>}}'
       private_comment: 'Moderator - Ko''rinadigan sharhlar'
       public_comment: Ogohlantirish
     warning_modal:

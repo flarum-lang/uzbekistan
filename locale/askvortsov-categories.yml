@@ -30,8 +30,11 @@ askvortsov-categories:
   forum:
     all_categories:
       meta_description_text: 'Hamma kategoriyalar'
+      meta_title_text: '=> askvortsov-categories.ref.categories'
     header:
       back_to_categories_tooltip: 'Kategoriyalar sahifasiga qaytish'
+    index:
+      categories_link: '=> askvortsov-categories.ref.categories'
     last_discussion_widget:
       no_discussions: 'Muhokama yo''q (hali!)'
     stat-widgets:

@@ -25,9 +25,11 @@ askvortsov-auto-moderator:
       add_action: 'Amal qo''shish'
       add_metric: 'Metrik qo''shing'
       back: 'Mezonlar roʻyxatiga qaytish'
+      delete_button: '=> core.ref.delete'
       description_label: Tavsif
       driver_missing_ext: 'Bu drayver yoqilmagan kengaytmalarga bog''liq.'
       icon_label: Ikonka
+      loading: '=> core.ref.loading'
       metrics_and_requirements_help: 'Ular foydalanuvchilarning ushbu mezonga mos kelishini belgilaydi. Ko''rsatkichlar qiymatlar diapazonini ifodalaydi, talablar mantiqiy shartlardir.'
       metrics_and_requirements_label: 'Ko''rsatkichlar va talablar'
       metrics_heading: 'Ko''rsatkichlar'

@@ -9,3 +9,5 @@ blomstra-search:
       label: 'Analiz tili'
     elastic-endpoint: 'Elastik so''nggi nuqta'
     elastic-index: Indeks
+    elastic-password: '=> core.ref.password'
+    elastic-username: '=> core.ref.username'
