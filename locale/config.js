@@ -3,4 +3,4 @@
 
 // TODO: copy compiled translations from https://unpkg.com/dayjs@v1.10.4/locale/xx.js
 
-dayjs.locale('xx');
+dayjs.locale('uz-latn');
