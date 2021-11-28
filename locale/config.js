@@ -23,8 +23,8 @@ dayjs.locale({
       LLLL: "D MMMM YYYY, dddd HH:mm"
     },
     relativeTime: {
-      future: "Yaqin %s ichida",
-      past: "Bir necha %s oldin",
+      future: "%s ichida",
+      past: "%s oldin",
       s: "soniya",
       m: "bir daqiqa",
       mm: "%d daqiqa",
