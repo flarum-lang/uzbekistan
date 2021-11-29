@@ -286,7 +286,7 @@ core:
       load_more_button: '=> core.ref.load_more'
       mark_as_read_tooltip: 'O''qildi deb belgilash'
       replied_text: '{username} javob berdi {ago}'
-      started_text: '{username} yaratdi {ago} oldin'
+      started_text: '{username} yaratdi {ago}'
       total_replies_a11y_label: '{count, plural, one {# javob} other {# javoblar}}'
       unread_replies_a11y_label: '{count, plural, one {# o''qilmagan javob} other {# o''qilmagan javoblar}}. O''qilmgan deb belgilash {count, plural, one {javob} other {javoblar}} as read.'
     forgot_password:
@@ -345,7 +345,7 @@ core:
       tooltip: '=> core.ref.notifications'
     post:
       edited_text: 'O''zgartirildi'
-      edited_tooltip: '{username} {ago} oldin o''zgartirdi'
+      edited_tooltip: '{username} {ago} o''zgartirdi'
       number_tooltip: 'Post #{number}'
     post_controls:
       delete_button: '=> core.ref.delete'
@@ -399,7 +399,7 @@ core:
       avatar_upload_tooltip: 'Yangi avatar yuklash'
       discussions_link: '=> core.ref.discussions'
       in_discussion_text: '{discussion} da'
-      joined_date_text: 'Qo''shildi {ago} oldin'
+      joined_date_text: 'Qo''shildi {ago}'
       online_text: Onlayn
       posts_empty_text: 'Postlar yo''q.'
       posts_link: '=> core.ref.posts'
