@@ -81,6 +81,7 @@ php flarum cache:clear
 | [`fof/amazon-affiliation`](https://github.com/FriendsOfFlarum/amazon-affiliation) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-amazon-affiliation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-amazon-affiliation/uz/) |
 | [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-analytics/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-analytics/uz/) |
 | [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-best-answer/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-best-answer/uz/) |
+| [`fof/custom-footer`](https://github.com/FriendsOfFlarum/custom-footer) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-custom-footer/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-custom-footer/uz/) |
 | [`fof/default-group`](https://github.com/FriendsOfFlarum/default-group) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-default-group/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-default-group/uz/) |
 | [`fof/discussion-language`](https://github.com/FriendsOfFlarum/discussion-language) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-discussion-language/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-discussion-language/uz/) |
 | [`fof/formatting`](https://github.com/FriendsOfFlarum/formatting) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-formatting/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-formatting/uz/) |
@@ -89,6 +90,7 @@ php flarum cache:clear
 | [`fof/links`](https://github.com/FriendsOfFlarum/links) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-links/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-links/uz/) |
 | [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-oauth/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-oauth/uz/) |
 | [`fof/pages`](https://github.com/FriendsOfFlarum/pages) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-pages/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-pages/uz/) |
+| [`fof/polls`](https://github.com/FriendsOfFlarum/polls) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-polls/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-polls/uz/) |
 | [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-recaptcha/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-recaptcha/uz/) |
 | [`fof/upload`](https://github.com/FriendsOfFlarum/upload) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/fof-upload/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-upload/uz/) |
 
