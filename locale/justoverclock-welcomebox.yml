@@ -10,9 +10,11 @@ flarum-ext-welcomebox:
     img-help: 'Mehmon qutisi uchun rasmning URL manzilini bu yerga qo''ying'
   forum:
     SettingsLink: Sozlamalar
+    discussion: '=> core.ref.discussions'
     goToProfile: Profil
     lastSeen: 'Oxirgi tashrif'
     notregistered: 'Siz hozirda ushbu forumda ro''yxatdan o''tmagansiz.'
+    npost: '=> core.ref.posts'
     tooltipDisclist: 'Mening muhokama ro''yxatim'
     tooltipMentions: Eslatmalar
     tooltipProfile: Profil
