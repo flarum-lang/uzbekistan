@@ -226,10 +226,10 @@ core:
       body: "Salom {username}!\n\nKimdir (umid qilamizki bu siz!) {forum} ga mana shu email bilan ro'yxatdan o'tdi.\n\nAgar bu siz bo'lsangiz, quyidagi havolani bosib akkauntingizni faollashtiring:\n{url}\n\nAgar siz ro'yxatdan o'tmagan bo'lsangiz, shunchaki e'tibor bermang.\n"
       subject: 'Yangi akkauntni faollashtiring'
     confirm_email:
-      body: "Salom {username}!\n\nKimdir (umid qilamizki bu siz!) {forum} Forum dagi emailini bunisiga o'zgartirdi.\n\nAgar bu siz bo'lsangiz, quyidagi havolani bosib emailingizni tasdiqlang:\n{url}\n\nAgar bu siz bo'lmasangiz, iltimos e'tibor bermang.\n"
+      body: "Salom {username}!\n\nKimdir (umid qilamizki bu siz!) {forum} dagi emailini bunisiga o'zgartirdi.\n\nAgar bu siz bo'lsangiz, quyidagi havolani bosib emailingizni tasdiqlang:\n{url}\n\nAgar bu siz bo'lmasangiz, iltimos e'tibor bermang.\n"
       subject: 'Yangi emailingizni tasdiqlang'
     reset_password:
-      body: "Salom {username}!\n\nKimdur (umid qilamizki bu siz!) {forum} ga parolni esdan chiqarganlik so'rovini jo'natdi.\n\nAgar bu siz bo'lsangiz, parolni o'zgartirish uchun quyidagi havolani bosing:\n{url}\n\nAgar parolingizni o'zgartirishni istamasangiz, bu emailga e'tibor bermang.\n"
+      body: "Salom {username}!\n\nKimdir (umid qilamizki bu siz!) {forum} ga parolni esdan chiqarganlik so'rovini jo'natdi.\n\nAgar bu siz bo'lsangiz, parolni o'zgartirish uchun quyidagi havolani bosing:\n{url}\n\nAgar parolingizni o'zgartirishni istamasangiz, bu emailga e'tibor bermang.\n"
       subject: '=> core.ref.reset_your_password'
     send_test:
       body: "Salom {username}!\n\nBu sizning Flarum emailingzi sozlamalari to'g'ri ishlayotganini tekshirish uchun jo'natilgan xabar.\n\nAgar bu siz bo'lsangiz, bu email sozlamalar to'g'ri ishlayotganini bildiradi!\n\nAgar siz bo'lmasangiz, e'tibor bermang.\n"

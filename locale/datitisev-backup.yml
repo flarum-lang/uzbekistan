@@ -76,7 +76,7 @@ datitisev-backup:
           toggle: SSL
         timeout:
           description: 'FTP serveri bilan ulanishni kutish uchun soniyalar soni.'
-          label: Timeout
+          label: 'Vaqt tamom'
         username:
           description: 'FTP serverida autentifikatsiya qilinadigan foydalanuvchi nomi.'
           label: 'Foydalanuvchi nomi'

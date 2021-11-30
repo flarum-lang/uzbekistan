@@ -18,4 +18,4 @@ flarum-lock:
       discussion_locked_text: '{username} muhokamani yopdi.'
       discussion_unlocked_text: '{username} muhokamani ochdi.'
     settings:
-      notify_discussion_locked_label: 'Kimdur men ochgan muhokamani yopdi'
+      notify_discussion_locked_label: 'Kimdir men ochgan muhokamani yopdi'
