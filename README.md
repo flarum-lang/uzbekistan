@@ -192,6 +192,7 @@ php flarum cache:clear
 | [`datitisev/flarum-maintenance`](https://extiverse.com/extension/datitisev/flarum-maintenance) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/datitisev-maintenance/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datitisev-maintenance/uz/) |
 | [`datitisev/flarum-webhooks-pro`](https://extiverse.com/extension/datitisev/flarum-webhooks-pro) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/datitisev-webhooks-pro/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datitisev-webhooks-pro/uz/) |
 | [`kilowhat/flarum-ext-formulaire`](https://extiverse.com/extension/kilowhat/flarum-ext-formulaire) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/kilowhat-formulaire/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-formulaire/uz/) |
+| [`v17development/flarum-support`](https://extiverse.com/extension/v17development/flarum-support) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/v17development-support/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-support/uz/) |
 
 <!-- premium-extensions-list-stop -->
 
