@@ -7,3 +7,9 @@ fof-best-answer:
     settings:
       label:
         general: Umumiy
+  forum:
+    composer:
+      titlePlaceholder: 'Savol sarlavhasi'
+    index:
+      ask_question: 'Savol so''rash'
+      cannot_ask_question: 'Savol berish mumkin emas'
