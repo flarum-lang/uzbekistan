@@ -15,7 +15,7 @@ fof-polls:
     composer_discussion:
       add_poll: 'So''rovnoma qo''shish'
       edit_poll: '=> fof-polls.forum.moderation.edit'
-    days_remaining: 'Ovoz berish {time} da tugaydi'
+    days_remaining: 'Ovoz berish {time} da tugaydi.'
     modal:
       add_option_label: 'Variant qo''shish'
       add_title: 'So''rovnoma qo''shish'
