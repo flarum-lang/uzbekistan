@@ -4,4 +4,7 @@
 
 v17development-flarum-support:
   forum:
+    article:
+      share_article:
+        title: 'Maqolani ulashish'
     ask_a_question_on_forums: 'Forumlarda savol bering'
