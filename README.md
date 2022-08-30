@@ -1,14 +1,10 @@
-**This is template for Flarum language pack. If you want to use it, follow [these instructions](https://github.com/rob006-software/flarum-lang-template/wiki).**
-
----------
-
 # Uzbek language pack for [Flarum](https://flarum.org/)
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/yourname/flarum-lang-xxish?color=success&label=stable)](https://packagist.org/packages/yourname/flarum-lang-xxish) 
-[![Latest Unstable Version](https://img.shields.io/packagist/v/yourname/flarum-lang-xxish?include_prereleases&label=unstable)](https://packagist.org/packages/yourname/flarum-lang-xxish) 
-[![License](https://img.shields.io/packagist/l/yourname/flarum-lang-xxish)](https://packagist.org/packages/yourname/flarum-lang-xxish) 
-[![Total Downloads](https://img.shields.io/packagist/dt/yourname/flarum-lang-xxish)](https://packagist.org/packages/yourname/flarum-lang-xxish/stats) 
-[![Monthly Downloads](https://img.shields.io/packagist/dm/yourname/flarum-lang-xxish)](https://packagist.org/packages/yourname/flarum-lang-xxish/stats) 
+[![Latest Stable Version](https://img.shields.io/packagist/v/flarum-lang/uzbek?color=success&label=stable)](https://packagist.org/packages/flarum-lang/uzbek) 
+[![Latest Unstable Version](https://img.shields.io/packagist/v/flarum-lang/uzbek?include_prereleases&label=unstable)](https://packagist.org/packages/flarum-lang/uzbek) 
+[![License](https://img.shields.io/packagist/l/flarum-lang/uzbek)](https://packagist.org/packages/flarum-lang/uzbek) 
+[![Total Downloads](https://img.shields.io/packagist/dt/flarum-lang/uzbek)](https://packagist.org/packages/flarum-lang/uzbek/stats) 
+[![Monthly Downloads](https://img.shields.io/packagist/dm/flarum-lang/uzbek)](https://packagist.org/packages/flarum-lang/uzbek/stats) 
 
 This language pack contains Uzbek translations for Flarum (compatible with `1.0.0` or newer) and popular extensions. Full list of supported extensions is available below.
 
@@ -43,8 +39,8 @@ php flarum cache:clear
 
 | Component | Status |
 | --- | --- |
-| [Core](https://github.com/flarum/core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/xx/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/xx/) |
-| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/xx/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/xx/) |
+| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/uz/) |
+| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/uz/) |
 
 
 ## Translation status for official extensions
@@ -200,6 +196,6 @@ php flarum cache:clear
 
 This language pack is part of [Flarum translations collective](https://github.com/rob006-software/flarum-translations).
 
-Translation for Day.js comes from the [source](https://github.com/iamkun/dayjs/blob/v1.10.4/src/locale/xx.js).
+Translation for Day.js comes from the [source](https://github.com/iamkun/dayjs/blob/v1.10.4/src/locale/uz.js).
 
-Translation for `validation.yml` is based on [Laravel translations](https://github.com/Laravel-Lang/lang/blob/8.1.3/src/xx/validation.php).
+Translation for `validation.yml` is based on [Laravel translations](https://github.com/Laravel-Lang/lang/blob/8.1.3/src/uz/validation.php).
