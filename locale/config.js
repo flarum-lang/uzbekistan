@@ -1,5 +1,5 @@
-// source: https://unpkg.com/dayjs@v1.10.4/locale/xx.js
-// see: https://github.com/iamkun/dayjs/blob/v1.10.4/src/locale/xx.js
+// source: https://unpkg.com/dayjs@v1.10.4/locale/uz-latn.js
+// see: https://github.com/iamkun/dayjs/blob/v1.10.4/src/locale/uz-latn.js
 
 dayjs.locale({
     name: "uz-latn",
