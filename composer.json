@@ -27,7 +27,8 @@
 	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
-			"title": "Uzbekistan",
+			"title": "Uzbek",
+			"category": "language",
 			"icon": {
 				"image": "icon.svg",
 				"backgroundSize": "cover",
