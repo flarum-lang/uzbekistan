@@ -179,14 +179,14 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
-| [`blomstra/payments`](https://extiverse.com/extension/blomstra/payments) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/blomstra-payments/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-payments/uz/) |
-| [`blomstra/readme`](https://extiverse.com/extension/blomstra/readme) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/blomstra-readme/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-readme/uz/) |
-| [`blomstra/realtime`](https://extiverse.com/extension/blomstra/realtime) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/blomstra-realtime/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-realtime/uz/) |
-| [`datitisev/flarum-backup`](https://extiverse.com/extension/datitisev/flarum-backup) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/datitisev-backup/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datitisev-backup/uz/) |
-| [`datitisev/flarum-maintenance`](https://extiverse.com/extension/datitisev/flarum-maintenance) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/datitisev-maintenance/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datitisev-maintenance/uz/) |
-| [`datitisev/flarum-webhooks-pro`](https://extiverse.com/extension/datitisev/flarum-webhooks-pro) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/datitisev-webhooks-pro/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datitisev-webhooks-pro/uz/) |
-| [`kilowhat/flarum-ext-formulaire`](https://extiverse.com/extension/kilowhat/flarum-ext-formulaire) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/kilowhat-formulaire/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-formulaire/uz/) |
-| [`v17development/flarum-support`](https://extiverse.com/extension/v17development/flarum-support) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/v17development-support/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-support/uz/) |
+| [`blomstra/payments`](https://flarum.org/extension/blomstra/payments) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/blomstra-payments/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-payments/uz/) |
+| [`blomstra/readme`](https://flarum.org/extension/blomstra/readme) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/blomstra-readme/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-readme/uz/) |
+| [`blomstra/realtime`](https://flarum.org/extension/blomstra/realtime) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/blomstra-realtime/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-realtime/uz/) |
+| [`datitisev/flarum-backup`](https://flarum.org/extension/datitisev/flarum-backup) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/datitisev-backup/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datitisev-backup/uz/) |
+| [`datitisev/flarum-maintenance`](https://flarum.org/extension/datitisev/flarum-maintenance) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/datitisev-maintenance/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datitisev-maintenance/uz/) |
+| [`datitisev/flarum-webhooks-pro`](https://flarum.org/extension/datitisev/flarum-webhooks-pro) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/datitisev-webhooks-pro/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datitisev-webhooks-pro/uz/) |
+| [`kilowhat/flarum-ext-formulaire`](https://flarum.org/extension/kilowhat/flarum-ext-formulaire) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/kilowhat-formulaire/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-formulaire/uz/) |
+| [`v17development/flarum-support`](https://flarum.org/extension/v17development/flarum-support) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/v17development-support/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-support/uz/) |
 
 <!-- premium-extensions-list-stop -->
 
