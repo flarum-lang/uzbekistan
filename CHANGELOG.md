@@ -5,6 +5,11 @@ CHANGELOG
 0.1.4 (XXXX-XX-XX)
 ------------------
 
+**Added support for new extensions**:
+
+* [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog)
+
+
 **Updated translations for extensions**:
 
 * [`clarkwinkelmann/catch-the-fish`](https://github.com/clarkwinkelmann/catch-the-fish)
