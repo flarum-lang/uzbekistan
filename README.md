@@ -169,6 +169,7 @@ php flarum cache:clear
 | [`malago/flarum-achievements`](https://github.com/malago86/flarum-achievements) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/malago-achievements/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/malago-achievements/uz/) |
 | [`nearata/flarum-ext-tags-color-generator`](https://github.com/Nearata/flarum-ext-tags-color-generator) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/nearata-tags-color-generator/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/nearata-tags-color-generator/uz/) |
 | [`nyu8/flarum-email-filter`](https://github.com/nyu8/flarum-email-filter) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/nyu8-email-filter/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/nyu8-email-filter/uz/) |
+| [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog) | [![Translation status](https://weblate.rob006.net/widgets/flarum/uz/v17development-blog/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-blog/uz/) |
 
 <!-- various-extensions-list-stop -->
 
